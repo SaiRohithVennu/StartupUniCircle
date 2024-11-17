@@ -1,0 +1,297 @@
+[2024-11-17T13:07:31.741Z] INFO: Skipping Twilio initialization in development mode {}
+[2024-11-17T13:10:52.080Z] INFO: Skipping Twilio initialization in development mode {}
+[2024-11-17T13:15:09.717Z] INFO: Development mode: Skipping Twilio initialization {}
+[2024-11-17T13:17:02.719Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T13:19:57.202Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T13:22:49.157Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T13:29:25.128Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T13:31:18.906Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T13:32:20.515Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T14:04:40.425Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T14:50:12.501Z] WARN: Invalid Twilio credentials
+Meta: {}
+
+[2024-11-17T14:50:12.506Z] INFO: Retrying connection... (5 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:50:17.517Z] INFO: Retrying connection... (4 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:50:22.526Z] INFO: Retrying connection... (3 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:50:27.534Z] INFO: Retrying connection... (2 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:50:32.543Z] INFO: Retrying connection... (1 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:55:43.311Z] WARN: Invalid Twilio credentials
+Meta: {}
+
+[2024-11-17T14:55:43.316Z] INFO: Retrying connection... (5 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:55:48.327Z] INFO: Retrying connection... (4 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:55:53.346Z] INFO: Retrying connection... (3 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:55:58.354Z] INFO: Retrying connection... (2 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:56:03.365Z] INFO: Retrying connection... (1 attempts remaining)
+Meta: {}
+
+[2024-11-17T14:56:49.615Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:10:11.283Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:13:29.009Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:15:05.129Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:15:50.352Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:18:08.027Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:20:24.481Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:22:04.996Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:23:48.112Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:25:26.128Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:25:26.143Z] INFO: Server running on port 5000
+Meta: {}
+
+[2024-11-17T15:25:26.874Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:25:28.729Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:26:48.836Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:27:57.328Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:27:57.341Z] INFO: Server running on port 5000
+Meta: {}
+
+[2024-11-17T15:27:57.999Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:28:00.659Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:28:35.716Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:28:35.732Z] INFO: Server running on port 5000
+Meta: {}
+
+[2024-11-17T15:28:36.011Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:28:37.022Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:29:53.179Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:29:53.193Z] INFO: Server running on port 5000
+Meta: {}
+
+[2024-11-17T15:29:54.124Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:29:56.192Z] REQUEST: GET /
+Headers: {
+  "accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7",
+  "connection": "keep-alive",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5000",
+  "referer": "https://localhost:5000/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "upgrade-insecure-requests": "1",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {}
+
+[2024-11-17T15:32:26.417Z] REQUEST: POST /auth/register
+Headers: {
+  "accept": "application/json, text/plain, */*",
+  "connection": "close",
+  "content-length": "146",
+  "content-type": "application/json",
+  "host": "localhost:5000",
+  "origin": "http://localhost:5173",
+  "referer": "https://localhost:5173/",
+  "sec-ch-ua": "\"Chromium\";v=\"130\", \"Google Chrome\";v=\"130\", \"Not?A_Brand\";v=\"99\"",
+  "sec-ch-ua-mobile": "?0",
+  "sec-ch-ua-platform": "\"macOS\"",
+  "user-agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/130.0.0.0 Safari/537.36"
+}
+Body: {
+  "name": "Sai Rohith Vennu",
+  "email": "vennush@mail.uc.edu",
+  "phone": "+12246594341",
+  "password": "[REDACTED]",
+  "department": "Information Technology"
+}
+
+[2024-11-17T15:32:26.418Z] INFO: Registration attempt
+Meta: {
+  "email": "vennush@mail.uc.edu",
+  "phone": "+12246594341",
+  "department": "Information Technology"
+}
+
+[2024-11-17T15:32:36.459Z] INFO: Response sent
+Meta: {
+  "method": "POST",
+  "url": "/register",
+  "statusCode": 500
+}
+
+[2024-11-17T15:33:21.659Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:34:24.215Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T15:35:03.684Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T17:55:42.968Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+
+[2024-11-17T17:56:25.056Z] INFO: Development mode: Skipping Twilio initialization
+Meta: {}
+

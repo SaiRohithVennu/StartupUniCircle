@@ -1,0 +1,172 @@
+[2024-11-17T14:50:12.506Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at eval (file:///home/project/server/index.js:91:1)
+    at _0x2bc8cc.run (https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3.w-credentialless-staticblitz.com/blitz.d3acb9e1.js:40:780820)
+    at _0xbd4ff8._evaluate (https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3.w-credentialless-staticblitz.com/blitz.d3acb9e1.js:40:788583)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:155:2451)
+Meta: {}
+
+[2024-11-17T14:50:17.514Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:50:22.525Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:50:27.534Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:50:32.543Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:50:37.555Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:50:37.555Z] ERROR: Failed to connect to MongoDB after multiple attempts
+No error details
+Meta: {}
+
+[2024-11-17T14:55:43.316Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at eval (file:///home/project/server/index.js:91:1)
+    at _0x2bc8cc.run (https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3.w-credentialless-staticblitz.com/blitz.d3acb9e1.js:40:780820)
+    at _0xbd4ff8._evaluate (https://zp1v56uxy8rdx5ypatb0ockcb9tr6a-oci3.w-credentialless-staticblitz.com/blitz.d3acb9e1.js:40:788583)
+    at async ModuleJob.run (node:internal/modules/esm/module_job:155:2451)
+Meta: {}
+
+[2024-11-17T14:55:48.325Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:55:53.344Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:55:58.354Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:56:03.364Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:56:08.374Z] ERROR: MongoDB connection error
+Message: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+Stack: MongooseError: The `uri` parameter to `openUri()` must be a string, got "undefined". Make sure the first parameter to `mongoose.connect()` or `mongoose.createConnection()` is a string.
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at NativeConnection.createClient (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/connection.js:225:11)
+    at NativeConnection.openUri (/home/project/node_modules/mongoose/lib/connection.js:835:34)
+    at Mongoose.connect (/home/project/node_modules/mongoose/lib/mongoose.js:447:15)
+    at connectDB (file:///home/project/server/index.js:72:29)
+    at Timeout.eval (file:///home/project/server/index.js:83:24)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {}
+
+[2024-11-17T14:56:08.375Z] ERROR: Failed to connect to MongoDB after multiple attempts
+No error details
+Meta: {}
+
+[2024-11-17T15:32:36.457Z] ERROR: Registration error
+Message: Operation `users.findOne()` buffering timed out after 10000ms
+Stack: MongooseError: Operation `users.findOne()` buffering timed out after 10000ms
+    at new MongooseError (/home/project/node_modules/mongoose/lib/error/mongooseError.js:7:1)
+    at Timeout.eval (/home/project/node_modules/mongoose/lib/drivers/node-mongodb-native/collection.js:185:23)
+    at <anonymous> (node:internal/timers:246:4692)
+Meta: {
+  "body": {
+    "name": "Sai Rohith Vennu",
+    "email": "vennush@mail.uc.edu",
+    "phone": "+12246594341",
+    "password": "Staru+28081998",
+    "department": "Information Technology"
+  }
+}
+
